@@ -672,8 +672,8 @@ font-family: Fira Sans;
 font-size: 32px;
 font-weight: 700;
 text-align: center;
-margin-right: 500px;
-margin-bottom: 100px;
+margin-right: 50px;
+margin-bottom: 10px;
 }
 .imagee{
     display: flex;
@@ -681,5 +681,5 @@ margin-bottom: 100px;
     align-items: center;
     gap: 32;
 padding: 50px 160px 50px 160px;
-margin-right: 450px;
+margin-right: 45px;
 }
